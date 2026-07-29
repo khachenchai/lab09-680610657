@@ -1,5 +1,13 @@
 # Lecture 09 - RESTful API (Part 3)
 
+### ป้อนข้อมูลนักศึกษา
+
+รหัส นศ.: 680610657
+
+ชื่อ-สกุล : คเชนทร์ชัย ใจกล้า
+
+Vercel URL : 
+
 ### Content
 
 - Current API
